@@ -13,14 +13,13 @@
 		AA757D1818E2E05F00A54587 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = AA757D1618E2E05F00A54587 /* InfoPlist.strings */; };
 		AA757D1A18E2E05F00A54587 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AA757D1918E2E05F00A54587 /* main.m */; };
 		AA757D1E18E2E05F00A54587 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = AA757D1D18E2E05F00A54587 /* AppDelegate.m */; };
-		AA757D2118E2E05F00A54587 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA757D1F18E2E05F00A54587 /* Main.storyboard */; };
 		AA757D2418E2E05F00A54587 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AA757D2318E2E05F00A54587 /* ViewController.m */; };
-		AA757D2618E2E05F00A54587 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA757D2518E2E05F00A54587 /* Images.xcassets */; };
 		AA757D2D18E2E05F00A54587 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AA757D2C18E2E05F00A54587 /* XCTest.framework */; };
 		AA757D2E18E2E05F00A54587 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AA757D0D18E2E05F00A54587 /* Foundation.framework */; };
 		AA757D2F18E2E05F00A54587 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AA757D1118E2E05F00A54587 /* UIKit.framework */; };
 		AA757D3718E2E05F00A54587 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = AA757D3518E2E05F00A54587 /* InfoPlist.strings */; };
 		AA757D3918E2E05F00A54587 /* HelloIPhoneTests.m in Sources */ = {isa = PBXBuildFile; fileRef = AA757D3818E2E05F00A54587 /* HelloIPhoneTests.m */; };
+		AAF28FCA18E394A000139FC7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA757D2518E2E05F00A54587 /* Images.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,23 +33,22 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		AA757D0A18E2E05F00A54587 /* HelloIPhone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloIPhone.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		AA757D0A18E2E05F00A54587 /* DecisionMaker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DecisionMaker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AA757D0D18E2E05F00A54587 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		AA757D0F18E2E05F00A54587 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		AA757D1118E2E05F00A54587 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		AA757D1518E2E05F00A54587 /* HelloIPhone-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "HelloIPhone-Info.plist"; sourceTree = "<group>"; };
+		AA757D1518E2E05F00A54587 /* DecisionMaker-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "DecisionMaker-Info.plist"; sourceTree = "<group>"; };
 		AA757D1718E2E05F00A54587 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		AA757D1918E2E05F00A54587 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		AA757D1B18E2E05F00A54587 /* HelloIPhone-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HelloIPhone-Prefix.pch"; sourceTree = "<group>"; };
+		AA757D1B18E2E05F00A54587 /* DecisionMaker-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DecisionMaker-Prefix.pch"; sourceTree = "<group>"; };
 		AA757D1C18E2E05F00A54587 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		AA757D1D18E2E05F00A54587 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		AA757D2018E2E05F00A54587 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		AA757D2218E2E05F00A54587 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		AA757D2318E2E05F00A54587 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		AA757D2518E2E05F00A54587 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		AA757D2B18E2E05F00A54587 /* HelloIPhoneTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HelloIPhoneTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		AA757D2B18E2E05F00A54587 /* DecisionMakerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DecisionMakerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AA757D2C18E2E05F00A54587 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		AA757D3418E2E05F00A54587 /* HelloIPhoneTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "HelloIPhoneTests-Info.plist"; sourceTree = "<group>"; };
+		AA757D3418E2E05F00A54587 /* DecisionMakerTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "DecisionMakerTests-Info.plist"; sourceTree = "<group>"; };
 		AA757D3618E2E05F00A54587 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		AA757D3818E2E05F00A54587 /* HelloIPhoneTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloIPhoneTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -82,7 +80,7 @@
 		AA757D0118E2E05F00A54587 = {
 			isa = PBXGroup;
 			children = (
-				AA757D1318E2E05F00A54587 /* HelloIPhone */,
+				AA757D1318E2E05F00A54587 /* DecisionMaker */,
 				AA757D3218E2E05F00A54587 /* HelloIPhoneTests */,
 				AA757D0C18E2E05F00A54587 /* Frameworks */,
 				AA757D0B18E2E05F00A54587 /* Products */,
@@ -92,8 +90,8 @@
 		AA757D0B18E2E05F00A54587 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				AA757D0A18E2E05F00A54587 /* HelloIPhone.app */,
-				AA757D2B18E2E05F00A54587 /* HelloIPhoneTests.xctest */,
+				AA757D0A18E2E05F00A54587 /* DecisionMaker.app */,
+				AA757D2B18E2E05F00A54587 /* DecisionMakerTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -109,27 +107,27 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		AA757D1318E2E05F00A54587 /* HelloIPhone */ = {
+		AA757D1318E2E05F00A54587 /* DecisionMaker */ = {
 			isa = PBXGroup;
 			children = (
 				AA757D1C18E2E05F00A54587 /* AppDelegate.h */,
 				AA757D1D18E2E05F00A54587 /* AppDelegate.m */,
-				AA757D1F18E2E05F00A54587 /* Main.storyboard */,
 				AA757D2218E2E05F00A54587 /* ViewController.h */,
 				AA757D2318E2E05F00A54587 /* ViewController.m */,
 				AA757D2518E2E05F00A54587 /* Images.xcassets */,
 				AA757D1418E2E05F00A54587 /* Supporting Files */,
 			);
+			name = DecisionMaker;
 			path = HelloIPhone;
 			sourceTree = "<group>";
 		};
 		AA757D1418E2E05F00A54587 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				AA757D1518E2E05F00A54587 /* HelloIPhone-Info.plist */,
+				AA757D1518E2E05F00A54587 /* DecisionMaker-Info.plist */,
 				AA757D1618E2E05F00A54587 /* InfoPlist.strings */,
 				AA757D1918E2E05F00A54587 /* main.m */,
-				AA757D1B18E2E05F00A54587 /* HelloIPhone-Prefix.pch */,
+				AA757D1B18E2E05F00A54587 /* DecisionMaker-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -146,7 +144,7 @@
 		AA757D3318E2E05F00A54587 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				AA757D3418E2E05F00A54587 /* HelloIPhoneTests-Info.plist */,
+				AA757D3418E2E05F00A54587 /* DecisionMakerTests-Info.plist */,
 				AA757D3518E2E05F00A54587 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
@@ -155,9 +153,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		AA757D0918E2E05F00A54587 /* HelloIPhone */ = {
+		AA757D0918E2E05F00A54587 /* DecisionMaker */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = AA757D3C18E2E05F00A54587 /* Build configuration list for PBXNativeTarget "HelloIPhone" */;
+			buildConfigurationList = AA757D3C18E2E05F00A54587 /* Build configuration list for PBXNativeTarget "DecisionMaker" */;
 			buildPhases = (
 				AA757D0618E2E05F00A54587 /* Sources */,
 				AA757D0718E2E05F00A54587 /* Frameworks */,
@@ -167,14 +165,14 @@
 			);
 			dependencies = (
 			);
-			name = HelloIPhone;
+			name = DecisionMaker;
 			productName = HelloIPhone;
-			productReference = AA757D0A18E2E05F00A54587 /* HelloIPhone.app */;
+			productReference = AA757D0A18E2E05F00A54587 /* DecisionMaker.app */;
 			productType = "com.apple.product-type.application";
 		};
-		AA757D2A18E2E05F00A54587 /* HelloIPhoneTests */ = {
+		AA757D2A18E2E05F00A54587 /* DecisionMakerTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = AA757D3F18E2E05F00A54587 /* Build configuration list for PBXNativeTarget "HelloIPhoneTests" */;
+			buildConfigurationList = AA757D3F18E2E05F00A54587 /* Build configuration list for PBXNativeTarget "DecisionMakerTests" */;
 			buildPhases = (
 				AA757D2718E2E05F00A54587 /* Sources */,
 				AA757D2818E2E05F00A54587 /* Frameworks */,
@@ -185,9 +183,9 @@
 			dependencies = (
 				AA757D3118E2E05F00A54587 /* PBXTargetDependency */,
 			);
-			name = HelloIPhoneTests;
+			name = DecisionMakerTests;
 			productName = HelloIPhoneTests;
-			productReference = AA757D2B18E2E05F00A54587 /* HelloIPhoneTests.xctest */;
+			productReference = AA757D2B18E2E05F00A54587 /* DecisionMakerTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -204,7 +202,7 @@
 					};
 				};
 			};
-			buildConfigurationList = AA757D0518E2E05F00A54587 /* Build configuration list for PBXProject "HelloIPhone" */;
+			buildConfigurationList = AA757D0518E2E05F00A54587 /* Build configuration list for PBXProject "DecisionMaker" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -217,8 +215,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				AA757D0918E2E05F00A54587 /* HelloIPhone */,
-				AA757D2A18E2E05F00A54587 /* HelloIPhoneTests */,
+				AA757D0918E2E05F00A54587 /* DecisionMaker */,
+				AA757D2A18E2E05F00A54587 /* DecisionMakerTests */,
 			);
 		};
 /* End PBXProject section */
@@ -228,9 +226,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AA757D2618E2E05F00A54587 /* Images.xcassets in Resources */,
 				AA757D1818E2E05F00A54587 /* InfoPlist.strings in Resources */,
-				AA757D2118E2E05F00A54587 /* Main.storyboard in Resources */,
+				AAF28FCA18E394A000139FC7 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -268,7 +265,7 @@
 /* Begin PBXTargetDependency section */
 		AA757D3118E2E05F00A54587 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = AA757D0918E2E05F00A54587 /* HelloIPhone */;
+			target = AA757D0918E2E05F00A54587 /* DecisionMaker */;
 			targetProxy = AA757D3018E2E05F00A54587 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -280,14 +277,6 @@
 				AA757D1718E2E05F00A54587 /* en */,
 			);
 			name = InfoPlist.strings;
-			sourceTree = "<group>";
-		};
-		AA757D1F18E2E05F00A54587 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				AA757D2018E2E05F00A54587 /* Base */,
-			);
-			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 		AA757D3518E2E05F00A54587 /* InfoPlist.strings */ = {
@@ -379,9 +368,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "HelloIPhone/HelloIPhone-Prefix.pch";
-				INFOPLIST_FILE = "HelloIPhone/HelloIPhone-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "HelloIPhone/DecisionMaker-Prefix.pch";
+				INFOPLIST_FILE = "HelloIPhone/DecisionMaker-Info.plist";
+				PRODUCT_NAME = DecisionMaker;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -392,9 +381,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "HelloIPhone/HelloIPhone-Prefix.pch";
-				INFOPLIST_FILE = "HelloIPhone/HelloIPhone-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "HelloIPhone/DecisionMaker-Prefix.pch";
+				INFOPLIST_FILE = "HelloIPhone/DecisionMaker-Info.plist";
+				PRODUCT_NAME = DecisionMaker;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -415,8 +404,8 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "HelloIPhoneTests/HelloIPhoneTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "HelloIPhoneTests/DecisionMakerTests-Info.plist";
+				PRODUCT_NAME = DecisionMakerTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -434,8 +423,8 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "HelloIPhone/HelloIPhone-Prefix.pch";
-				INFOPLIST_FILE = "HelloIPhoneTests/HelloIPhoneTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "HelloIPhoneTests/DecisionMakerTests-Info.plist";
+				PRODUCT_NAME = DecisionMakerTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -444,7 +433,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		AA757D0518E2E05F00A54587 /* Build configuration list for PBXProject "HelloIPhone" */ = {
+		AA757D0518E2E05F00A54587 /* Build configuration list for PBXProject "DecisionMaker" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				AA757D3A18E2E05F00A54587 /* Debug */,
@@ -453,21 +442,23 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		AA757D3C18E2E05F00A54587 /* Build configuration list for PBXNativeTarget "HelloIPhone" */ = {
+		AA757D3C18E2E05F00A54587 /* Build configuration list for PBXNativeTarget "DecisionMaker" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				AA757D3D18E2E05F00A54587 /* Debug */,
 				AA757D3E18E2E05F00A54587 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		AA757D3F18E2E05F00A54587 /* Build configuration list for PBXNativeTarget "HelloIPhoneTests" */ = {
+		AA757D3F18E2E05F00A54587 /* Build configuration list for PBXNativeTarget "DecisionMakerTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				AA757D4018E2E05F00A54587 /* Debug */,
 				AA757D4118E2E05F00A54587 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

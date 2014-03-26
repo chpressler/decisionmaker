@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "AA757D0918E2E05F00A54587"
-               BuildableName = "HelloIPhone.app"
-               BlueprintName = "HelloIPhone"
-               ReferencedContainer = "container:HelloIPhone.xcodeproj">
+               BuildableName = "DecisionMaker.app"
+               BlueprintName = "DecisionMaker"
+               ReferencedContainer = "container:DecisionMaker.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "AA757D2A18E2E05F00A54587"
-               BuildableName = "HelloIPhoneTests.xctest"
-               BlueprintName = "HelloIPhoneTests"
-               ReferencedContainer = "container:HelloIPhone.xcodeproj">
+               BuildableName = "DecisionMakerTests.xctest"
+               BlueprintName = "DecisionMakerTests"
+               ReferencedContainer = "container:DecisionMaker.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "AA757D0918E2E05F00A54587"
-            BuildableName = "HelloIPhone.app"
-            BlueprintName = "HelloIPhone"
-            ReferencedContainer = "container:HelloIPhone.xcodeproj">
+            BuildableName = "DecisionMaker.app"
+            BlueprintName = "DecisionMaker"
+            ReferencedContainer = "container:DecisionMaker.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "AA757D0918E2E05F00A54587"
-            BuildableName = "HelloIPhone.app"
-            BlueprintName = "HelloIPhone"
-            ReferencedContainer = "container:HelloIPhone.xcodeproj">
+            BuildableName = "DecisionMaker.app"
+            BlueprintName = "DecisionMaker"
+            ReferencedContainer = "container:DecisionMaker.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -80,9 +80,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "AA757D0918E2E05F00A54587"
-            BuildableName = "HelloIPhone.app"
-            BlueprintName = "HelloIPhone"
-            ReferencedContainer = "container:HelloIPhone.xcodeproj">
+            BuildableName = "DecisionMaker.app"
+            BlueprintName = "DecisionMaker"
+            ReferencedContainer = "container:DecisionMaker.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

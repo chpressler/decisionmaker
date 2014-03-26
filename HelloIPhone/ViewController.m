@@ -7,6 +7,7 @@
 //
 
 #import "ViewController.h"
+#include <stdlib.h>
 
 @interface ViewController ()
 
@@ -24,6 +25,27 @@
 {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+}
+
+- (void)viewWillAppear:(BOOL)inAnimated {
+    [super viewWillAppear:inAnimated];
+    [self.label setText:@""];
+}
+
+- (IBAction)go:(id)sender {
+    int r = arc4random() % 100;
+    //NSString *str = [NSString stringWithFormat:@"%d", r];
+    NSString *dec;
+    if(r <= 50) {
+        dec = @"no";
+    } else {
+        dec = @"yes";
+    }
+    [self.label setText:dec];
+}
+
+- (IBAction)reset:(id)sender {
+    [self.label setText:@""];
 }
 
 @end
